@@ -1,7 +1,7 @@
 title: Codey-stuff
 description: Long-winded answers to questions I've had. JavaScript, Angular.js, Node.js, MongoDB, React.js
 
-url: http://barbaraliau.github.com/
+url: http://barbaraliau.github.io/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
